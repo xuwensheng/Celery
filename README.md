@@ -1,6 +1,6 @@
 # Celery
 
-A PHP CMS powered by [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) [Bootstrap](https://github.com/twbs/bootstrap).
+A PHP CMS powered by [CodeIgniter 3](https://github.com/bcit-ci/CodeIgniter) and [Bootstrap](https://github.com/twbs/bootstrap).
 
 ## Demo
 
